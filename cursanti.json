@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nume": "Bocsa",
+    "prenume": "Mirela",
+    "email": "bocsamirela123@gmail.com"
+  },
+  {
+    "id": 2,
+    "nume": "Propescu",
+    "prenume": "Vasile",
+    "email": "popescu@gmail.com"
+  },
+  {
+    "id": 3,
+    "nume": "Vasiu",
+    "prenume": "Victoria",
+    "email": "victoria123456@yahoo.com"
+  },
+  {
+    "id": 4,
+    "nume": "Catalin",
+    "prenume": "Andrei",
+    "email": "catalin@gmail.ro"
+  },
+  {
+    "id": 8,
+    "nume": "Mihail",
+    "prenume": "Elena",
+    "email": "emailMihail@gmail.com"
+  },
+  {
+    "id": 7,
+    "nume": "Popa",
+    "prenume": "Valeriu",
+    "email": "mycompany@yahoo.com"
+  }
+]
